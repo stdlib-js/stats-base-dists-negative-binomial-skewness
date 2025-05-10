@@ -4,15 +4,25 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-24)
+## Unreleased (2025-05-10)
+
+<section class="features">
+
+### Features
+
+-   [`952aeda`](https://github.com/stdlib-js/stdlib/commit/952aeda3f3a6c0e1707d9ab062310b8bab8070e3) - add C implementation for  `stats/base/dists/negative-binomial/skewness` [(#4105)](https://github.com/stdlib-js/stdlib/pull/4105)
+
+</section>
+
+<!-- /.features -->
 
 <section class="issues">
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#4980](https://github.com/stdlib-js/stdlib/issues/4980)
+[#3768](https://github.com/stdlib-js/stdlib/issues/3768), [#4980](https://github.com/stdlib-js/stdlib/issues/4980)
 
 </section>
 
@@ -24,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`952aeda`](https://github.com/stdlib-js/stdlib/commit/952aeda3f3a6c0e1707d9ab062310b8bab8070e3) - **feat:** add C implementation for  `stats/base/dists/negative-binomial/skewness` [(#4105)](https://github.com/stdlib-js/stdlib/pull/4105) _(by Manvith M, Philipp Burckhardt, stdlib-bot)_
 -   [`39f6970`](https://github.com/stdlib-js/stdlib/commit/39f69705826500421b402f732d6a16e204f54dca) - **bench:** refactor random number generation in `stats/base/dists/negative-binomial` [(#5193)](https://github.com/stdlib-js/stdlib/pull/5193) _(by GK Bishnoi)_
 
 </details>
@@ -36,9 +47,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   GK Bishnoi
+-   Manvith M
+-   Philipp Burckhardt
 
 </section>
 
